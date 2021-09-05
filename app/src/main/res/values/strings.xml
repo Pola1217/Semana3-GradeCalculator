@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semana3-GradeCalculator</string>
+    <string name="escribe_tu_nombre_para_continuar">Escribe tu nombre para continuar</string>
+    <string name="nombre">Nombre</string>
+    <string name="rosa">Rosa</string>
+    <string name="configuraci_n_de_color">Configuración de color</string>
+    <string name="seleccione_un_color_de_fondo_para_la_app">Seleccione un color de fondo para la app</string>
+    <string name="blanco">Blanco</string>
+    <string name="azul">Azul</string>
+</resources>
