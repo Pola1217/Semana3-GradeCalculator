@@ -48,7 +48,7 @@ public class Grades extends AppCompatActivity {
                     double grade4 = Double.parseDouble(nota4.getText().toString());
                     double grade5 = Double.parseDouble(nota5.getText().toString());
 
-                    double finalGrade = ((grade1*0.20) + (grade2*0.20) + (grade3*0.20) + (grade4*0.20) + (grade5*0.20));
+                    double finalGrade = ((grade1*0.15) + (grade2*0.15) + (grade3*0.20) + (grade4*0.25) + (grade5*0.25));
 
                     Intent i= new Intent(this, FinalGrade.class);
                     i.putExtra("name",name);
